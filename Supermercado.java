@@ -6,6 +6,8 @@ quantidade em estoque. Um pedido de um cliente é composto de itens, onde cada
 item especifica o produto que o cliente deseja e a respectiva quantidade. Esse
 pedido pode ser pago em dinheiro, cheque ou cartão.”
 
+//Exemplo alteração
+
 PROVA 3 - UNIDADE 1
 Entrega até 14/09/2021 às 23:59
 
