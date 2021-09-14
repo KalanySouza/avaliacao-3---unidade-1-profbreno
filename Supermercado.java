@@ -27,15 +27,18 @@ public class Supermercado {
         Produto arroz = new Produto("Arroz", 5.00, 10);
         Produto feijao = new Produto("Feijão", 8.00, 10);
         Produto macarrao = new Produto("Macarrão", 4.00, 10);
+        Produto acucar = new Produto("Açucar", 5.00, 10);
 
         Itens i1 = new Itens(0, arroz, 2);
         Itens i2 = new Itens(1, feijao, 3);
         Itens i3 = new Itens(2, macarrao, 1);
+        Itens i4 = new Itens(3, acucar, 2);
 
         Pedido pedido = new Pedido(1, "Cartão de Crédito", 3);
         pedido.adicionarItem(i1);
         pedido.adicionarItem(i2);
         pedido.adicionarItem(i3);
+        pedido.adicionarItem(i4);
 
         pedido.imprimir();
 
