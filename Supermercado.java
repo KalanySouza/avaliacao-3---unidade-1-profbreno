@@ -7,6 +7,7 @@ item especifica o produto que o cliente deseja e a respectiva quantidade. Esse
 pedido pode ser pago em dinheiro, cheque ou cartão.”
 
 //Exemplo alteração
+//Nova alteração para enviar de outra forma
 
 PROVA 3 - UNIDADE 1
 Entrega até 14/09/2021 às 23:59
