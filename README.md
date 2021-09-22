@@ -1,13 +1,18 @@
 # Disciplina: Linguagem de Programação I - IFBA Euclides da Cunha
 
-## PROVA 3 - UNIDADE 1
+## PROVA DE RECUPERAÇÃO - UNIDADE 1
 
-### Entrega até 14/09/2021 às 23:59
+### Entrega até 23/09/2021 às 23:59
 
 ### **Implementar os seguintes requisitos**
 
-- Usuário que deve Adicionar itens ao pedido (Apresente a lista de produtos e quantidade disponível)
-- Editar o pedido (Apresente a lista de produtos e quantidade disponível)
-- Usuário que deve remover itens do pedido
-- Usuário que deve escolher a forma de pagamento do pedido após o pedido ser finalizado (Dinheiro ou Cartão)
-- Se dinheiro, o usuário deve informar o valor do pagamento e o troco deve ser apresentado
+- Acrescente mais dois tipos de atributos na classe Produto, a seu critério,
+  como por exemplo, um atributo para armazenar o preço de custo e outro para
+  armazenar o preço de venda, usando encapsulamento.
+- Acrescente um método na classe Produto para calcular o lucro do produto,
+  que deve ser o preço de venda menos o preço de custo.
+- Crie uma classe RepositórioPedidos que armazene os pedidos de um supermercado.
+  Essa classe deve ser capaz de gerar um relatório de vendas do dia.
+- A classe principal deve ser capaz de adicionar mais de um pedido, calcular o
+  valor total de cada pedido e gerar o relatório de vendas ao final do di, incluíndo
+  lucro adquirido.
